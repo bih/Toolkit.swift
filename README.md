@@ -2,9 +2,9 @@
 
 **Toolkit** is a [Swift](https://developer.apple.com/swift/) library (released under the [MIT License](http://bih.mit-license.org)) that allows you to write beautiful Swift applications. Think **jQuery for Swift**.
 
-Before we begin writing it, I'm **kindly asking the open source community to suggest features and offer contributions** for the first version of Toolkit (which is expected to be released when Swift is out of beta).
+Before we release it, I'm **kindly asking the open source community to propose features and offer contributions** for the first version of Toolkit. If you would like to follow our progress, simply click on "Star" and "Watch" above.
 
-Click "Star" and "Watch" above if you would like to follow our progress.
+We'll probably release Toolkit in the next few months (likely to be when Swift leaves beta).
 
 ## Proposals for Toolkit v1
 
