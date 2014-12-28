@@ -65,7 +65,7 @@ What we (probably) won't consider:
 * Syntactic sugar for libraries that are unstable.
 * Any sort of usage for "hacky" code.
 * Interfering with code that is pending a fix from Apple.
-* Proposals must have a need for more than 50% of our users to be used. Make sure it's toolkit-worthy.
+* Anything that roughly less than 50% of our users will want. Remember, it's a toolkit.
 * Anything that requires extensive implementation (as it bloats the library, we're aiming to keep the entire toolkit really small).
 
 If you're unsure, create an issue and we'll discuss it as a community.
